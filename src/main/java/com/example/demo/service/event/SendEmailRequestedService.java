@@ -1,4 +1,4 @@
-package com.example.demo.service;
+package com.example.demo.service.event;
 
 import com.example.demo.endpoint.event.model.SendEmailRequested;
 import com.example.demo.mail.Email;
