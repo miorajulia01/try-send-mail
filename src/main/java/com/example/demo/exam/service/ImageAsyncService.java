@@ -1,6 +1,6 @@
 package com.example.demo.exam.service;
 
-import com.example.demo.file.BucketComponent;
+import com.example.demo.file.bucket.BucketComponent;
 import com.example.demo.mail.Email;
 import com.example.demo.mail.Mailer;
 import jakarta.mail.internet.InternetAddress;
