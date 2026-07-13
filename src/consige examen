@@ -1,0 +1,6 @@
+EXAMEN
+deux endpoint
+get: findAll pour voir la persistance en BD
+ post: img.jpg ou png et email
+async : email envoyé, lien S3 noir et blanc
+sync: persistance dans BD => id,(UUID, nom_fichier, email, creation-date) pour avoir l'image en noir et blanc
